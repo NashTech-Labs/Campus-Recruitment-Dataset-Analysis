@@ -7,3 +7,7 @@ In this worlflow we will analyse the Campus Recruitment Dataset using the decisi
 - Predict the expected salary of the students in the placemment with the help of Decision tree algorithm.
 - Calculate the accuracy score of the model.
 - Visualise the data to get some interesting information.
+
+
+## Use this Workflow
+Clone this repository in the knime-workspace then open the KNIME Analytics Platform you will get the workflow of this project.

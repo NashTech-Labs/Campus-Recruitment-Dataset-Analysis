@@ -10,4 +10,4 @@ In this worlflow we will analyse the Campus Recruitment Dataset using the decisi
 
 
 ## Use this Workflow
-Clone this repository in the knime-workspace folder then Open/Restart the KNIME Analytics Platform you will get the workflow of this project.
+Clone this repository in the knime-workspace folder then Open/Restart the KNIME Analytics Platform you will see the workflow of this project in the explorer section.
